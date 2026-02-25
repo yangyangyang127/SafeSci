@@ -109,14 +109,3 @@ llamafactory-cli train config/qwen3_8b_lora_sft.yaml
 
 We gratefully acknowledge the use of code from the following projects: [SOSBench](https://github.com/SOSBench/SOSBenchEval), [InstructBioMol](https://github.com/HICAI-ZJU/InstructBioMol), and [Llama-Factory](https://github.com/hiyouga/LlamaFactory/). Our work builds upon their foundational contributions.
 
-### 🔖 Citation
-
-```bibtex
-@article{,
-
-}
-```
-
-### 😀 About
-
-If you have any questions, please contact us at zhuxiangyang@pjlab.org.cn.
