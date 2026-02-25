@@ -1,0 +1,8 @@
+data/chem/FGBench/safety_related_train_sampled.json 
+data/chem/FGBench/safety_related_test_sampled.json 
+data/med/DrugBank/DrugBank_drug_judge_interact_tf_sampled.json 
+data/bio/bioprobench/bioprotocolbench_ERR_tfq_sampled.json 
+data/bio/SciKnowEval/SciKnowEval_biological_laboratory_safety_tf_sampled.json
+data/chem/SciKnowEval/SciKnowEval_chemical_laboratory_safety_tf_sampled.json
+data/chem/SciKnowEval/SciKnowEval_mol_toxicity_prediction_tf_sampled.json
+data/physics/SciKnowEval_physics_laboratory_safety_tf_sampled.json
