@@ -1,6 +1,6 @@
 ## SafeSci: Safety Evaluation of Large Language Models in Science Domains and Beyond
 
-This repository is the official implementation of [SafeSci](https://arxiv).
+This repository is the official implementation of [SafeSci](https://arxiv.org/abs/2603.01589).
 
 ### 🔔 News
 
