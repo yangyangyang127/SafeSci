@@ -112,8 +112,14 @@ We gratefully acknowledge the use of code from the following projects: [SOSBench
 ### 🔖 Citation
 
 ```bibtex
-@article{,
-
+@misc{zhu2026safescisafetyevaluationlarge,
+      title={SafeSci: Safety Evaluation of Large Language Models in Science Domains and Beyond}, 
+      author={Xiangyang Zhu and Yuan Tian and Qi Jia and Kaiwei Zhang and Zicheng Zhang and Chunyi Li and Kaiyuan Ji and Dongrui Liu and Zijian Chen and Lu Sun and Renrui Zhang and Yan Teng and Jing Shao and Wei Sun and Xia Hu and Yu Qiao and Guangtao Zhai},
+      year={2026},
+      eprint={2603.01589},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2603.01589}, 
 }
 ```
 
